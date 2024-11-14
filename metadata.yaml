@@ -1,0 +1,28 @@
+_repo: Where-the-West-begins_74701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hall, Austin
+    birthdate: 1882
+    deathdate: 1933
+    gutenberg_agent_id: '1591'
+    url: http://www.gutenberg.org/2009/agents/1591
+    wikipedia: https://en.wikipedia.org/wiki/Austin_Hall_(writer)
+description: ''
+gutenberg_issued: '2024-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74701'
+language: en
+pgterms:marc905: 20240721200402hall
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Where the West begins
+url: http://www.gutenberg.org/ebooks/74701
